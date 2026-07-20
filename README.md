@@ -63,7 +63,7 @@ Sign-Language-Detection-Using-Machine-Learning/
 # Prediction
 
 ```
-Predicted Sign : A
+Predicted Sign : L
 Confidence : 98%
 ```
 
@@ -82,8 +82,7 @@ Confidence : 98%
 
 # Result
 
--The trained Machine Learning model successfully recognizes sign language hand gestures from images and live webcam input.
--When a hand sign is detected, the system predicts the corresponding alphabet and displays it as text in real time.
+-The trained Machine Learning model successfully recognizes sign language hand gestures from images and live webcam input.When a hand sign is detected, the system predicts the corresponding alphabet and displays it as text in real time.
 
 # Output
 -Detects hand gestures accurately from the webcam.
