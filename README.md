@@ -82,11 +82,10 @@ Confidence : 98%
 
 # Result
 
--The trained Machine Learning model successfully recognizes sign language hand gestures from images and live webcam input.When a hand sign is detected, the system predicts the corresponding alphabet and displays it as text in real time.
+The trained Machine Learning model successfully recognizes sign language hand gestures from images and live webcam input.When a hand sign is detected, the system predicts the corresponding alphabet and displays it as text in real time.
 
 # Output
--Detects hand gestures accurately from the webcam.
--Predicts the corresponding sign (e.g., A, B, C, etc.).
--Displays the predicted sign along with the confidence score.
--Provides fast and real-time recognition for smooth user interaction.
-
+- Detects hand gestures accurately from the webcam.
+- Predicts the corresponding sign (e.g., **A**, **B**, **C**, etc.).
+- Displays the predicted sign along with the confidence score.
+- Provides fast and real-time recognition for smooth user interaction.
